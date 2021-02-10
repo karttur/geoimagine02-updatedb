@@ -1,10 +1,17 @@
 '''
 Created on 6 Dec 2018
+Updated 10 Feb 2021
 
 @author: thomasgumbricht
 '''
 
+# Standard library imports
+
 from os import path
+
+# Third party imports
+
+# Package application imports
 
 #from geoimagine.gdalutilities import GDALstuff
 
